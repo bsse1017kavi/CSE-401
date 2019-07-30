@@ -264,8 +264,8 @@ int main(void)
     cout << endl;
 
     fifs();
+    sstf();
     scan();
     cscan();
     look();
-    sstf();
 }
